@@ -82,7 +82,4 @@ Neuro-Nutritionist-Assistant/
 ## 📝 Output Data
 Text responses and retrieved facts from the base (format “Found facts → Answer”).
 
----
 
-## 📜 License
-MIT
